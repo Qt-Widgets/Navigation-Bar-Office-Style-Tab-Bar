@@ -17,3 +17,8 @@ Simple MS Outlook-like navigation bar (multi-page container widget). Can be styl
 
 ![](https://github.com/Qt-Widgets/Navigation-Bar-Office-Style-Tab-Bar/blob/master/8.png)
 
+![](https://github.com/Qt-Widgets/Navigation-Bar-Office-Style-Tab-Bar/blob/master/9.png)
+
+![](https://github.com/Qt-Widgets/Navigation-Bar-Office-Style-Tab-Bar/blob/master/10.png)
+
+![](https://github.com/Qt-Widgets/Navigation-Bar-Office-Style-Tab-Bar/blob/master/11.png)
